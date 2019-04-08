@@ -1,0 +1,25 @@
+{
+  "name": "newsportal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ascol9861/news-portal.git"
+  },
+  "author": "Ascol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ascol9861/news-portal/issues"
+  },
+  "homepage": "https://github.com/Ascol9861/news-portal#readme"
+}
